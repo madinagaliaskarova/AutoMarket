@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TechnicalTaskForITSurf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_description_example" translatable="false">В эксклюзивной комплектации:\n\nРаздельный задний диван\nПанорамная крыша\nРазвлекательная система для задних пассажиров\nСистема ночного видения\nЛазерная оптика\nУправляемая задняя подвеска\nАдаптивный круиз-контроль</string>
+    <string name="filing_an_announcement" translatable="false">Продаю Audi A8, Long, 2016 г.в.</string>
+</resources>
